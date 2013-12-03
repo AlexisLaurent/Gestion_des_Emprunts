@@ -1,0 +1,28 @@
+Use case
+
+Ordinateur 
+
+Commun
+
+- Se connecter
+- Faire une demande d'emprunt
+- flasher le matériel
+- gérer ses demandes
+
+Responsable
+
+- gérer le stock
+- gérer les demandes des emprunteurs
+- visualiser le matériel
+
+
+
+
+
+Activité
+
+
+
+
+
+Séquence
