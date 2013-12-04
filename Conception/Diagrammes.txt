@@ -4,16 +4,16 @@ Ordinateur
 
 Commun
 
-- Se connecter
-- Faire une demande d'emprunt
-- flasher le matériel
-- gérer ses demandes
+- Se connecter  R
+- Faire une demande d'emprunt S
+- flasher le matériel R
+- gérer ses demandes A
 
 Responsable
 
-- gérer le stock
-- gérer les demandes des emprunteurs
-- visualiser le matériel
+- gérer le stock R
+- gérer les demandes des emprunteurs S 
+- visualiser le matériel A
 
 
 
