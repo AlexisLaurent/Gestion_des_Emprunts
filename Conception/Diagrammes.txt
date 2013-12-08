@@ -26,3 +26,9 @@ Activité
 
 
 Séquence
+
+
+
+Classe
+- Matérial: qui a acheté
+- User : status ?
